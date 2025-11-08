@@ -12,6 +12,15 @@
 .swiftpm/
 migrate_working_dir/
 
+# ⚠️ SECURITY - Never commit these!
+.env
+*.env
+.env.local
+.env.production
+node_modules/
+uploads/
+server.js.backup
+
 # IntelliJ related
 *.iml
 *.ipr
