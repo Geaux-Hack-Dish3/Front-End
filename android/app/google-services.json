@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1067272827533",
+    "project_id": "photo-quest-c7c59",
+    "storage_bucket": "photo-quest-c7c59.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067272827533:android:db28ca5905ca9445d0e8c4",
+        "android_client_info": {
+          "package_name": "com.example.photo_quest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW35gmYIb4iPnvVbyGhhOp_uiS2Yv48cI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
